@@ -1,6 +1,7 @@
 
 
 
+- [victoria palms inn and suites](https://www.vpalms.com/)
 - [Woodspring Suites](https://www.woodspring.com/locations)
 
 ---
