@@ -17,4 +17,5 @@ Woodspring Suites
 Pharr
 $36 per night   
 - https://www.woodspring.com/
+- [Woodspring Suites Texas](https://www.woodspring.com/extended-stay-hotels/locations/texas/hotels)
 - [WoodSpring Suites San Antonio Stone Oak](https://www.woodspring.com/extended-stay-hotels/locations/texas/san-antonio-new-braunfels/woodspring-suites-san-antonio-stone-oak)
