@@ -1,5 +1,8 @@
 
 
+- [JD Power List of Extended Stay Hotels](https://www.jdpower.com/business/press-releases/2026-north-america-hotel-guest-satisfaction-study/)
+
+---
 
 America's Best Value Inn
 Pharr
