@@ -5,6 +5,3 @@
 - [List of Mexican Consulates in Texas](https://github.com/stormasm/mexico/blob/main/residency/consulates.md)
 - [List of Mexico–United States border crossings](https://en.wikipedia.org/wiki/List_of_Mexico%E2%80%93United_States_border_crossings)
 
-### Places
-
-- [Vanderpool](https://www.youtube.com/watch?v=Ae3qXUnFOVM)
