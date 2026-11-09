@@ -9,3 +9,9 @@
 ---
 
 - [List of Mexican Consulates in Texas](./../residency/consulates.md)
+
+---
+
+### Places
+
+- [Vanderpool](https://www.youtube.com/watch?v=Ae3qXUnFOVM)
